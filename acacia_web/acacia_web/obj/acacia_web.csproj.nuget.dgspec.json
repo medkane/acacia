@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "F:\\med\\cours\\git\\acacia\\acacia_web\\acacia_web\\acacia_web.csproj": {}
+    "C:\\Users\\ibrahim.ouedraogo\\Desktop\\Demo\\acacia\\acacia_web\\acacia_web\\acacia_web.csproj": {}
   },
   "projects": {
-    "F:\\med\\cours\\git\\acacia\\acacia_web\\acacia_web\\acacia_web.csproj": {
+    "C:\\Users\\ibrahim.ouedraogo\\Desktop\\Demo\\acacia\\acacia_web\\acacia_web\\acacia_web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\med\\cours\\git\\acacia\\acacia_web\\acacia_web\\acacia_web.csproj",
+        "projectUniqueName": "C:\\Users\\ibrahim.ouedraogo\\Desktop\\Demo\\acacia\\acacia_web\\acacia_web\\acacia_web.csproj",
         "projectName": "acacia_web",
-        "projectPath": "F:\\med\\cours\\git\\acacia\\acacia_web\\acacia_web\\acacia_web.csproj",
-        "packagesPath": "C:\\Users\\medoune.kane\\.nuget\\packages\\",
-        "outputPath": "F:\\med\\cours\\git\\acacia\\acacia_web\\acacia_web\\obj\\",
+        "projectPath": "C:\\Users\\ibrahim.ouedraogo\\Desktop\\Demo\\acacia\\acacia_web\\acacia_web\\acacia_web.csproj",
+        "packagesPath": "C:\\Users\\ibrahim.ouedraogo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ibrahim.ouedraogo\\Desktop\\Demo\\acacia\\acacia_web\\acacia_web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\medoune.kane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ibrahim.ouedraogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
