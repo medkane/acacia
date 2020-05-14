@@ -5,7 +5,8 @@ using System.Threading.Tasks;
 
 namespace acacia_web.Models
 {
-    public class IOmnivore
+    public interface IOmnivore
     {
+        public void Ruminer();
     }
 }
